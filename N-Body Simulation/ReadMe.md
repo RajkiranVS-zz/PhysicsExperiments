@@ -19,7 +19,7 @@ Then to calculate the radius of the object, we simplify the radius of a sphere c
 
 To calculate the distance between the objects, we use Euclidean distance.
 
-Finally, for the graphical representation we use Tkinter.
+Finally, for the graphical representation we use Tkinter, with a fixed refresh rate of the canvas.
 
 
 
